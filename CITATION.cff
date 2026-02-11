@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated publication."
+type: software
+title: "Sigma Receptor Co-expression Divergence Analysis"
+version: 1.0.0
+authors:
+  - family-names: "Harbert"
+    given-names: "Drake W."
+    affiliation: "Inner Architecture LLC"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/innerarchitecturellc/sigma-receptor-divergence"
+license: MIT
+keywords:
+  - sigma-1 receptor
+  - sigma-2 receptor
+  - SIGMAR1
+  - TMEM97
+  - co-expression network
+  - mitochondria-associated membrane
+  - human brain
+  - GTEx
+preferred-citation:
+  type: article
+  title: "Sigma-1 and Sigma-2 Receptors Exhibit Divergent Genome-Wide Co-Expression Networks in Human Brain Despite Shared Subcellular Localization"
+  authors:
+    - family-names: "Harbert"
+      given-names: "Drake W."
+  journal: "International Journal of Molecular Sciences"
+  year: 2026
+  doi: "10.5281/zenodo.XXXXXXX"
