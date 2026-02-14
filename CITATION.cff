@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: >-
+  Sigma-1 and Sigma-2 Receptor Co-Expression Divergence in
+  Human Brain — Reproducible Analysis Pipeline
+message: >-
+  If you use this software or build upon these findings,
+  please cite the associated manuscript.
+type: software
+authors:
+  - given-names: Drake H.
+    family-names: Harbert
+    orcid: 'https://orcid.org/0009-0007-7740-3616'
+    affiliation: 'Inner Architecture LLC, Canton, OH 44721, USA'
+repository-code: 'https://github.com/nwharbert8-ui/sigma-divergence-brain'
+license: MIT
+version: 1.0.0
+date-released: '2026-02-14'
+keywords:
+  - sigma-1 receptor
+  - sigma-2 receptor
+  - SIGMAR1
+  - TMEM97
+  - co-expression network
+  - transcriptomics
+  - GTEx
+  - human brain
+  - ribosome quality control
+  - neurodegeneration
+preferred-citation:
+  type: article
+  title: >-
+    Sigma-1 and Sigma-2 Receptors Exhibit Divergent Genome-Wide
+    Co-Expression Networks in Human Brain Despite Shared
+    Subcellular Localization
+  authors:
+    - given-names: Drake H.
+      family-names: Harbert
+      orcid: 'https://orcid.org/0009-0007-7740-3616'
+  journal: Journal of Neurochemistry
+  year: 2026
+  status: submitted
